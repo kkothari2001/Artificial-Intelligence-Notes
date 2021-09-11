@@ -11,9 +11,9 @@ use of computational models
 > The study of the computations that make
 it possible to perceive, reason, and act
 
-One is concerned with rashnality, and the other with human intelligence. It all depends on the use and why we are using it.
+One is concerned with rationality, and the other with human intelligence. It all depends on the use and why we are using it.
 
-We can quanitfy both these behaviours (human-cognition and rationality) in certain ways.
+We can quantify both these behaviours (human-cognition and rationality) in certain ways.
 
 - Thinking humanly:
   
