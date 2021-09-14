@@ -6,5 +6,5 @@ To-do chapter list
 ----------
 - [x] Introduction
 - [x] Intelligent Agents
-- [ ] Solving Problems by Searching
+- [ ] Solving Problems by Searching (almost complete)
 - [ ] Informed Search Methods
